@@ -1,0 +1,30 @@
+name: 🧠 Daily Coding Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:      # Allows manual run too
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Get Daily Quote
+        run: |
+          curl https://quotes.stormconsultancy.co.uk/random.json > quote.json
+
+      - name: Update README
+        run: |
+          QUOTE=$(jq -r .quote quote.json)
+          AUTHOR=$(jq -r .author quote.json)
+          sed -i "s|<!-- QUOTE -->.*<!-- ENDQUOTE -->|<!-- QUOTE -->\n💬 \"$QUOTE\" — *$AUTHOR*\n<!-- ENDQUOTE -->|" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "🔄 update daily quote"
+          git push
