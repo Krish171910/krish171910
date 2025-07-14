@@ -67,10 +67,11 @@
 
 ---
 
-<h2 align="center">⚡ Streaks ⚡</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krish171910&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-</p>
+<div align="center">
+  <h2>🔥 GitHub Streak 🔥</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishpatel1905&theme=tokyonight&hide_border=true&border_radius=20" width="60%" />
+</div>
+
 
 
 ---
