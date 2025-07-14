@@ -69,7 +69,7 @@
 
 <div align="center">
   <h2>🔥 GitHub Streak 🔥</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishpatel1905&theme=tokyonight&hide_border=true&border_radius=20" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish171019&theme=tokyonight&hide_border=true&border_radius=20" width="60%" />
 </div>
 
 
