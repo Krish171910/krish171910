@@ -70,10 +70,11 @@
 <h2 align="center">⚡ Streaks ⚡</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=krish171910&theme=dark&card_width=900&card_height=300" />
-    <img src="https://streak-stats.demolab.com?user=krish171910&theme=radical" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=krish171910&theme=highcontrast&card_width=900&card_height=300" />
+    <img src="https://streak-stats.demolab.com?user=krish171910&theme=highcontrast" />
   </picture>
 </p>
+
 
 ---
 
