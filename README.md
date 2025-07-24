@@ -79,8 +79,9 @@
 <h2 align="center">🌈 Colorful Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish171910&theme=tokyo-night&bg_color=0d1117&color=FF6AC1&line=5D9CEC&point=FAD000&hide_border=true" width="90%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRISHPATE1905&theme=radical" alt="Profile Summary" />
 </p>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRISHPATE19055&theme=radical" alt="Profile Summary" />
+
 ---
 
 <div align="center">
