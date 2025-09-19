@@ -59,6 +59,8 @@
 </table>
 
 ---
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/KrishPatel?ext=heatmap)
 
 <h2 align="center">💡 Programming Wisdom</h2>
 <p align="center">
