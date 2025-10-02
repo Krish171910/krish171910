@@ -100,6 +100,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish171910&layout=compact&theme=radical&hide_border=true&border_radius=20" width="30%" />
 </div>
 
+
+![CodeChef Heatmap](https://codechef-api.vercel.app/handle/krishpatel1905/heatmap)
+
+
 ---
 
 ## 🏆 My HackerRank Badges
