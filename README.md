@@ -114,10 +114,8 @@
   </a>
 </p>
 
-<div align="center">
-  <h3>🔥 CodeChef Stats</h3>
-  <img src="./assets/codechef_heatmap.png" alt="CodeChef Heatmap" width="600">
-</div>
+![CodeChef Heatmap](https://krish171910.github.io/codechef-heatmap/codechef.svg)
+
 
 
 
