@@ -101,7 +101,7 @@
 </div>
 
 
-![CodeChef Heatmap](https://codechef-api.vercel.app/handle/krishpatel1905/heatmap)
+
 
 
 ---
@@ -113,3 +113,13 @@
     <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank" alt="HackerRank Profile">
   </a>
 </p>
+
+## 🧾 CodeChef Stats & Heatmap
+
+![CodeChef Heatmap](https://raw.githubusercontent.com/krishpatel1905/YourRepoName/main/assets/codechef_heatmap.png)
+
+| Metric        | Value |
+| ------------- | ----- |
+| CodeChef Handle| krishpatel1905 |
+| Profile Link   | [codechef.com/users/krishpatel1905](https://www.codechef.com/users/krishpatel1905) |
+
