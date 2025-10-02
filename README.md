@@ -118,8 +118,6 @@
 
 ![CodeChef Heatmap](https://raw.githubusercontent.com/krishpatel1905/YourRepoName/main/assets/codechef_heatmap.png)
 
-| Metric        | Value |
-| ------------- | ----- |
-| CodeChef Handle| krishpatel1905 |
-| Profile Link   | [codechef.com/users/krishpatel1905](https://www.codechef.com/users/krishpatel1905) |
+![CodeChef Heatmap](https://raw.githubusercontent.com/YourUser/YourRepo/main/assets/codechef_heatmap.png)
+
 
