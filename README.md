@@ -4,6 +4,7 @@
 ---
 
 <br>
+ ![Profile Views](https://komarev.com/ghpvc/?username=krish171910&color=brightgreen&style=flat-square)
 
 <table style="border: none;">
   <tr>
