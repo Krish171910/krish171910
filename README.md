@@ -70,6 +70,9 @@
 </table>
 
 ---
+### 🎃 Hacktoberfest 2025 Participant
+![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest)
+
 ## 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KrishPatel1905?ext=heatmap)
 
