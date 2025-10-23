@@ -113,7 +113,11 @@
 <h2>🚀 Languages I Use</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish171910&layout=compact&theme=radical&hide_border=true&border_radius=20" width="30%" />
 </div>
-
+<div align="center">
+  <a href="https://www.holopin.io/@KrishPatel1905">
+    <img src="https://holopin.me/KrishPatel1905" alt="Holopin Badge Board" />
+  </a>
+</div>
 
 
 
