@@ -76,10 +76,7 @@
 ## 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KrishPatel1905?ext=heatmap)
 
-<h2 align="center">💡 Programming Wisdom</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+
 
 ---
 
