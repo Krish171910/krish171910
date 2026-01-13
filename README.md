@@ -3,6 +3,56 @@
 
 ---
 
+<!-- =====================  HEADER BANNER  ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=240&text=KRISH%20PATEL&fontSize=75&color=gradient&customColorList=3,5,14&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Python&descSize=22&descAlign=50&descAlignY=72" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+
+# 📊 Data Science Enthusiast · ML Learner · Python Developer
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Driven+Problem+Solver;Machine+Learning+Explorer;Python+%26+Analytics+Developer;Turning+Data+Into+Insights" />
+</p>
+
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&color=1f2937)](https://github.com/yourusername)
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+</div>
+
+---
+
+## 🧠 Data Console
+
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│ analyst@dataspace:~$ load_profile                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ┌─[ PROFILE ]───────────────────────────────────────────┐ │
+│  │  Name:        Krish Patel                               │ │
+│  │  Domain:      Data Science & Analytics                  │ │
+│  │  Stack:       Python | ML | Statistics                  │ │
+│  │  Status:      [███████████████████] LEARNING            │ │
+│  └────────────────────────────────────────────────────────┘ │
+│                                                              │
+│  ┌─[ OBJECTIVES ]─────────────────────────────────────────┐ │
+│  │  > Analyze Data                                        │ │
+│  │  > Build Models                                        │ │
+│  │  > Visualize Insights                                  │ │
+│  │  > Solve Real Problems                                 │ │
+│  └────────────────────────────────────────────────────────┘ │
+│                                                              │
+│  analyst@dataspace:~$ echo "Data tells stories."             │
+│  Data tells stories.                                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
+
 <br>
 <div align="center">
 
