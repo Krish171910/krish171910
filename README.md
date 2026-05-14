@@ -71,6 +71,16 @@ As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, a
 
 ---
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishpatel1905&theme=darkhub&margin-w=15&margin-h=10&row=2&column=4" />
+</div>
+
+---
+
 # 🏆 My GitHub Achievements
 
 <div align="center">
